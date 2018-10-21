@@ -75,7 +75,7 @@
               "src/styles.css"
             ],
             "scripts": [
-              
+              "../node_modules/bootstrap-v4-rtl/dist/js/bootstrap.min.js"
             ],
             "assets": [
               "src/favicon.ico",
